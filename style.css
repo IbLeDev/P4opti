@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding: 0;
+    color: black;
     background: #FFF;
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
@@ -104,11 +105,11 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: rgba(0, 0, 0, 0.7);
 }
 
 .d-bloc button:hover {
-    color: rgba(255, 255, 255, .9);
+    color: rgba(0, 0, 0, 0.9);
 }
 
 .d-bloc .icon-round,
@@ -116,7 +117,7 @@ a:hover {
 .d-bloc .icon-rounded,
 .d-bloc .icon-semi-rounded-a,
 .d-bloc .icon-semi-rounded-b {
-    border-color: rgba(255, 255, 255, .9);
+    border-color: rgba(0, 0, 0, 0.9);
 }
 
 .d-bloc .divider-h span {
